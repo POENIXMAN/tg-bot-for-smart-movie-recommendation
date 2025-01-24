@@ -16,6 +16,6 @@ Telegram bot for smarter movie recommendations powered by ML
 
 ----
 ## Instructions:
-  just open tg and visit ou bot to start [bot](tg://@ml_movie_bot) -- @ml_movie_bot
+  just open tg and visit our bot to start [bot](tg://@ml_movie_bot) -- @ml_movie_bot
 
   
