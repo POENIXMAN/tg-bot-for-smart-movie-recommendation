@@ -9,7 +9,9 @@ Telegram bot for smarter movie recommendations powered by ML
 
 4- music_rec_ml -- notebook with data engineering and knn building + testing
 
-5- 
+5- movies.csv -- is the datset for alternative models we will use for future improvement of our bot 
+
+6- Recsys_movies_changes -- alternative models we tested to use for collaborative filtering update to the bot
 
 
 ----
